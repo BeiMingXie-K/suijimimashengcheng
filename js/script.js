@@ -1,4 +1,4 @@
-// This is a simple Password Generator App that will generate random password maybe you can you them to secure your account.
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>// This is a simple Password Generator App that will generate random password maybe you can you them to secure your account.
 // I tried my best to make the code as simple as possible please dont mind the variable names.
 // Also this idea came in my mind after checking Traversy Media's latest video.
 
